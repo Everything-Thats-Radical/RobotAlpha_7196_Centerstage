@@ -19,7 +19,9 @@ import com.qualcomm.robotcore.hardware.SwitchableLight;
 
 import org.firstinspires.ftc.teamcode.drive.DriveConstants;
 import org.firstinspires.ftc.teamcode.drive.SampleMecanumDrive;
-import org.firstinspires.ftc.teamcode.trajectorysequence.TrajectorySequence; ;kwqjf;oqe'jv'
+import org.firstinspires.ftc.teamcode.trajectorysequence.TrajectorySequence;
+
+//THIS IS A TEST FOR GITHUB
 
 @Autonomous(name = "A4_Right_2Cn_Prk")
 public class A4_Right_2Cn_Prk extends LinearOpMode {
